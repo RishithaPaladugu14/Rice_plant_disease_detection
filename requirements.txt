@@ -1,8 +1,8 @@
+streamlit
 tensorflow
 numpy
-pandas
-matplotlib
-seaborn
+pillow
+opencv-python
 scikit-learn
-streamlit
-Pillow
+matplotlib
+gdown
